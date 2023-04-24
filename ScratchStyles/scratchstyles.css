@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 15px;
+}
+
+h2{
+ font-style: italic;
+ 
+}
+
+h3{
+    color: cornflowerblue;
+}
+
+h1{
+    outline-style: solid; color: cornflowerblue; width: 500px;
+}
+
+h4{
+    outline-style: solid; color: black; width: 117px;
+}

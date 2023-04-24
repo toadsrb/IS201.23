@@ -1,0 +1,10 @@
+ul{
+    font-size: 20x;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
